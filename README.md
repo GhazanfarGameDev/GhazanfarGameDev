@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://ghazanfargamedev.github.io/"><img src="https://img.shields.io/badge/Portfolio-ghazanfargamedev.github.io-c3ed9c?style=for-the-badge&logo=googlechrome&logoColor=101714" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ghazanfar-ali-726873100/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ghazanfargamedev.github.io/assets/Ghazanfar_Ali_Modern_Game_Developer_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-101714?style=for-the-badge&logo=adobeacrobatreader&logoColor=c3ed9c" alt="Resume"></a>
+  <a href="https://ghazanfargamedev.github.io/assets/Ghazanfar_Ali.pdf"><img src="https://img.shields.io/badge/Resume-PDF-101714?style=for-the-badge&logo=adobeacrobatreader&logoColor=c3ed9c" alt="Resume"></a>
 </p>
 
 <p align="center"><b>🟢 Open to Senior Unity / Game Developer roles</b></p>
